@@ -10,5 +10,6 @@ body{
     color: black;
     overflow: hidden;
     overflow-y: scroll;
+    font-family: Poppins,sans-serif;
     -webkit-overflow-scrolling: hidden;
 }
